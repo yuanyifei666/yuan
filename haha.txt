@@ -6,3 +6,4 @@ jfkldsajflk
 我是使用yuanyifei的用户修改的 the user yuanyifei edit
 我是使用yuanyifei的用户修改的 the user zhangsan edit]
 跨团队协作开发
+s使用ssh访问远程的github仓库
